@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966058185608",
+    "project_id": "marketplace-cf3b0",
+    "storage_bucket": "marketplace-cf3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966058185608:android:5610f701e4385591bd203d",
+        "android_client_info": {
+          "package_name": "com.example.bechdal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966058185608-3fjslrj0brgfr40idr9m1vi3hio15mi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bechdal_app",
+            "certificate_hash": "0fb0535ee3c6199efb208185e0032204ca0c7ee0"
+          }
+        },
+        {
+          "client_id": "966058185608-2td2fg67dpmov5nqja6g4v58au9756m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWiEPlq_GC_RMtyRoLx0d9Zw15YuSOao0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966058185608-2td2fg67dpmov5nqja6g4v58au9756m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
